@@ -5,4 +5,4 @@ This is a new line today.
 
 
 This is another line.
-This is another line.
+This is another.
